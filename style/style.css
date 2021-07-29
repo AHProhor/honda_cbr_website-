@@ -1,0 +1,18 @@
+/* Header section css start */
+.header-section-css {
+  height: 600px;
+  background-color: #264653;
+}
+.description {
+  width: 480px;
+  margin-left: 200px;
+}
+.headerimage img {
+  width: 552px;
+  height: 447px;
+  margin-left: 200px;
+}
+.faq-image {
+  width: 430px;
+  height: 430px;
+}
